@@ -68,3 +68,84 @@ body {
     min-height: 400px;
     background: transparent;
 }
+
+@media only screen and (max-width: 480px) {
+  .h3{
+    font-size: 20px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 15px;
+      color: aliceblue;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  
+  .h3{
+    font-size: 20px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 15px;
+      color: aliceblue;
+  }
+
+}
+
+@media only screen and (min-width: 600px) {
+  
+  .h3{
+    font-size: 22px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 18px;
+      color: aliceblue;
+  }
+
+}
+
+@media only screen and (min-width: 768px) {
+  
+  .h3{
+    font-size: 25px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 20px;
+      color: aliceblue;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  
+  .h3{
+    font-size: 25px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 22px;
+      color: aliceblue;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  
+  .h3{
+    font-size: 25px;
+    color: aliceblue;
+  }
+
+  .paragrif{
+      font-size: 22px;
+      color: aliceblue;
+  }
+
+}
+
